@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👋 Hi, I’m Dhruv Patel
+👀 I’m interested in Developing system.
+📫 To know more about me head out to my www.linkedin.com/in/dhruv-patel11
+
 <!--
 **Dhruv1103/Dhruv1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
