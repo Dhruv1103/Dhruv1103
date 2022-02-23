@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Dhruv patel</a></h1>
+<h1 align="center">Hi, I'm <a href="www.linkedin.com/in/dhruv-patel11" target="_blank"> Dhruv patel</a></h1>
 <h3 align="center">A Passionate Web Developer <!--& Open Source Contributer--></h3>
 
 
