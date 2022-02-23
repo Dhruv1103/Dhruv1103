@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- <!--👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-amolshelke2.vercel.app/" target="_blank">Portfolio</a>**
+<!-- - 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-amolshelke2.vercel.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His -->
 
