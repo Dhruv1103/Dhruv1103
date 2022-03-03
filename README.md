@@ -12,12 +12,8 @@ A hard working and energetic person who loves to code.
 #### 👯 Other interests
 I like to read books and watch short movies.  -->
 
-#### 📫 How can you reach me?
-Connect with me on [Twitter](https://twitter.com/#) or [LinkedIn](https://www.linkedin.com/in/#).
-
 #### 💬 Want to know more about me?
 You can find my work on my [Portfolio] <!--(https://akashvaghela.vercel.app). -->
-
 <br />
 
 ## 👨🏻‍💻 Tech Stack
