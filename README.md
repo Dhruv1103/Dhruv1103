@@ -39,7 +39,7 @@ You can find my work on my [Portfolio] <!--(https://akashvaghela.vercel.app). --
 
 ![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv1103&count_private=true&show_icons=true&theme=tokyonight)
 
-![git contrubution](https://activity-graph.herokuapp.com/graph?username=dhruv1103&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)
+<!--![git contrubution](https://activity-graph.herokuapp.com/graph?username=dhruv1103&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)-->
 
 
 
@@ -49,3 +49,13 @@ You can find my work on my [Portfolio] <!--(https://akashvaghela.vercel.app). --
 [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/dhruv-patel1103) 
 [![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:dhruvvpatel12@gmail.com) 
 <!-- [![Twitter](https://img.icons8.com/plasticine/50/000000/twitter.png)](https://twitter.com/akashvaghela09) -->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1103)](https://github.com/dhruv1103)
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1103" alt="dhruv_patel" /></p>
+   <br>
+
+![visits](https://visitor-badge.laobi.icu/badge?page_id=dhruv.visitor-badge)
+
+
