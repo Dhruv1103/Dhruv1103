@@ -43,8 +43,8 @@ You can find my work on my [Portfolio] <!--(https://akashvaghela.vercel.app). --
 ## 📊 GitHub Stats
 
 <!-- ![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv1103&count_private=true&show_icons=true&theme=tokyonight) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1103" alt="dhruv_patel" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&ensp;&ensp;&ensp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1103)](https://github.com/dhruv1103)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1103" alt="dhruv_patel" />&nbsp; &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1103)](https://github.com/dhruv1103)
 <!--![git contrubution](https://activity-graph.herokuapp.com/graph?username=dhruv1103&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)-->
 
 
