@@ -1,65 +1,51 @@
+Hi there 👋
+<br />
+I am Dhruv patel, an aspiring full-stack developer from Gujarat. Currently, I am learning full-stack web development <!--at Masai School-->. I love to build apps that are interesting and useful. 
+
+⚡ Little bit more about me:
+
+<!-- - ⚗️ Though I hold Bachelor's degree in chemical engineering, I aspire to work as a programmer. -->
+- 🌱 I’m actively looking for oppotunities in full stack web development.
+
+#### ⚡ One line that describes me best? 
+A hard working and energetic person who loves to code.
+
+#### 👯 Other interests
+I like to read books and watch short movies.
+
+#### 📫 How can you reach me?
+Connect with me on [Twitter](https://twitter.com/#) or [LinkedIn](https://www.linkedin.com/in/#).
+
+#### 💬 Want to know more about me?
+You can find my work on my [Portfolio] <!--(https://akashvaghela.vercel.app). -->
+
+<br />
+
+## 👨🏻‍💻 Tech Stack
+
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+<!--![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white) -->
+<br />
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+<!--![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp; -->
+
+<br />
+
+## 📊 GitHub Stats
+
+![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv1103&count_private=true&show_icons=true&theme=tokyonight)
+
+![git contrubution](https://activity-graph.herokuapp.com/graph?username=dhruv1103&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)
 
 
-<h1 align="center">Hi, I'm <a href="www.linkedin.com/in/dhruv-patel11" target="_blank"> Dhruv patel</a></h1>
-<h3 align="center">A Passionate Web Developer <!--& Open Source Contributer--></h3>
 
+## ✉️ Contact me 👇🏻
 
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Web Development**
-
-<!-- - 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-amolshelke2.vercel.app/" target="_blank">Portfolio</a>**
-
-- 😄 Pronouns: He/His -->
-
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="www.linkedin.com/in/dhruv-patel11"  target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="dhruvvpatel12@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/dhruv11_03"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</div>
-
-<h3 align="left">Web Technologies :</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-</div>
-
-<!--<table> 
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AmolShelke2&show_icons=true&theme=dark&locale=en" alt="Amol Shelke" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmolShelke2&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amol-shelke" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolShelke2&theme=dark" alt="Amol Shelke" /></p>
-  </div>-->
-
-
-
-<!--### Hi there 👋
-
-👋 Hi, I’m Dhruv Patel
-👀 I’m interested in Developing system.
-
-📫 To know more about me head out to my www.linkedin.com/in/dhruv-patel11
--->
-
-<!--
-**Dhruv1103/Dhruv1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/dhruv1103)
+[![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](https://www.linkedin.com/in/dhruv-patel1103) 
+[![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:dhruvvpatel12@gmail.com) 
+<!-- [![Twitter](https://img.icons8.com/plasticine/50/000000/twitter.png)](https://twitter.com/akashvaghela09) -->
