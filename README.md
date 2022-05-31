@@ -43,10 +43,10 @@ You can find my work on my [Portfolio] Will Update Soon
 ## 📊 GitHub Stats
 
 <!-- ![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv1103&count_private=true&show_icons=true&theme=tokyonight) -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1103" alt="dhruv_patel" />&nbsp; &nbsp; &nbsp; -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhruv1103&theme=dark)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1103)](https://github.com/dhruv1103) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1103&layout=compact)](https://github.com/dhruv1103/github-readme-stats)-->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1103" alt="dhruv_patel" />&nbsp; &nbsp; &nbsp;
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhruv1103&theme=dark)](https://git.io/streak-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1103)](https://github.com/dhruv1103) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1103&layout=compact)](https://github.com/dhruv1103/github-readme-stats)
 <!--![git contrubution](https://activity-graph.herokuapp.com/graph?username=dhruv1103&bg_color=0D1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true)-->
 
 
