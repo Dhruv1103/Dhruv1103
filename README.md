@@ -5,6 +5,8 @@
 
 - 💬 Ask me about *Andriod*
 
+- 🌟 Open-source enthusiast and contributor
+
 - 📫 How to reach me *dhruvvpatel12@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
