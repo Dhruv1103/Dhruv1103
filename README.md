@@ -1,20 +1,74 @@
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
-<h3 align="center">A passionate Android framework developer from India</h3>
 
-- 🌱 I’m currently learning *AOSP Devlopment*
+<h3 align="center">Android Framework Developer | AOSP Enthusiast 🇮🇳</h3>
 
-- 💬 Ask me about *Andriod*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=Android+Developer;AOSP+Learner;Java+%7C+Kotlin+Enthusiast;Open-Source+Contributor" />
+</p>
 
-- 🌟 Open-source enthusiast and contributor
+---
 
-- 📫 How to reach me *dhruvvpatel12@gmail.com*
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-www.linkedin.com/in/dhruv-patel11
+- 🌱 Currently learning **AOSP Development**
+- 📱 Focused on **Android Framework & System Internals**
+- 💡 Passionate about **low-level Android architecture**
+- 🌟 Open-source enthusiast
+- 📫 Reach me at: **dhruvvpatel12@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv1103&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv1103" /> </p>
+## 🛠️ Tech Stack
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1103&" alt="dhruv1103" /></p>-->
+### 📱 Android Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🔥 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv1103&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv1103&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv1103&theme=tokyonight" />
+</p>
+
+---
+
+## 💼 Current Focus
+
+- 🧠 Android Framework Internals
+- ⚙️ AOSP Build System
+- 📱 System-level Android components
+- 🚀 Improving DSA & problem solving
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: **dhruvvpatel12@gmail.com**
+- 🔗 LinkedIn: www.linkedin.com/in/dhruv-patel11
+
+---
+
+<p align="center">
+  🚀 "Building systems, not just apps"
+</p>
