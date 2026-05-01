@@ -3,7 +3,7 @@
 <h3 align="center">Android Framework Developer | AOSP Enthusiast 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=Android+Developer;AOSP+Learner;Java+%7C+Kotlin+Enthusiast;Open-Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=Android+Engineer;AOSP+Learner;Java+%7C+Kotlin+Enthusiast;Open-Source+Contributor" />
 </p>
 
 ---
